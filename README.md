@@ -13,7 +13,7 @@
   </p>
 </div>
 
-# Usage
+# Usag
 Clone the repository, install the dependencies and start the lessons with the base code.
 
 ```shell
